@@ -1,0 +1,3 @@
+# Contact Manager
+A contact manager that stores it's contacts in a database. It is able to do CRUD actions.
+Work in progress...
