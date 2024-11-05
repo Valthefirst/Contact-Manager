@@ -1,7 +1,7 @@
 # Contact Manager
 This application allows you to easily manage your contacts by creating, editing, and deleting them. The contacts are stored in a database, so you can access them anytime you need to.
 
-**How to install the database**
+## How to install the database
 Download the ``ContactManager.sql`` script and execute it in MS SQL Server Management Studio
 
 **Main Window**
@@ -19,7 +19,7 @@ Download the ``ContactManager.sql`` script and execute it in MS SQL Server Manag
 All contacts are stored in an SQL database as presented in the following diagram:
 ![image](https://github.com/user-attachments/assets/fc69c700-39f1-40d4-b3b7-13a93014c3a5)
 
-**Future Ideas
+## Future Ideas
 - Add birthdays
 - Allow multiple phone numbers, emails and addresses
 - Implement email address verification
